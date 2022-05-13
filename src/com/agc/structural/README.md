@@ -10,7 +10,8 @@
 > Adds additional behavior to an object dynamically.
 
 ### Facade: 
-> Provides a simplified, higher-level interface to a subsystem. Clients can talk to the facade rather than individual classes in the subsystem.
+> Provides a simplified, higher-level interface to a subsystem. Clients can talk to the facade rather than individual classes in the 
+> subsystem.
 
 ### Flyweight: 
 > Allows sharing common state between multiple objects.
@@ -19,4 +20,5 @@
 > Allows representing hierarchies that grow in two different dimensions independently.
 
 ### Proxy: 
-> Allows providing a substitute for another object. The proxy object delegates all the work to the target object and contains some additional behavior.
+> Allows providing a substitute for another object. The proxy object delegates all the work to the target object and contains some 
+> additional behavior.
