@@ -2,6 +2,7 @@
 
 ### Memento: 
 > Allows restoring an object to a previous state.
+
 ![Momento Image](./resources/momento.png)
 
 The memento class is the one holding the different states you are dealing with in your object - it is what enables the "undo/redo" functionality.
