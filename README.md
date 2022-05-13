@@ -1,17 +1,17 @@
 # Design Patterns
 
 ## Behavioral
-### Chain of Responsibility
-### Iterator
-### Momento
-### Observer
-### State
-### Strategy
+#### Chain of Responsibility
+#### Iterator
+#### Momento
+#### Observer
+#### State
+#### Strategy
 
 ## Creational
-### Factory
-### Singelton
+#### Factory
+#### Singelton
 
 ## Structural
-### Bridge
-### Proxy
+#### Bridge
+#### Proxy
