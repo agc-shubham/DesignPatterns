@@ -1,7 +1,7 @@
 # Design Patterns
 
-## Behavioral
-#### Chain of Responsibility
+## [Behavioral] (./src/com/agc/behavioral)
+#### [Chain of Responsibility] (./src/com/agc/behavioral/chainOfResponsibility)
 #### Iterator
 #### Momento
 #### Observer
